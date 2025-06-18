@@ -88,3 +88,5 @@ Prompt: In a distant future, where the universe is ruled by a vast galactic empi
 Useful repos and APIs : 
 - Stable-Fast-3D : https://github.com/Stability-AI/stable-fast-3d
 - Meshy.ai API
+- Microsoft TRELLIS : https://github.com/Microsoft/TRELLIS
+- 
