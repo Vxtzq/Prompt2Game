@@ -21,7 +21,7 @@ Title: Galactic Conquest
 Prompt: In a distant future, where the universe is ruled by a vast galactic empire, players must lead a rebellion against the oppressive rule to restore freedom and justice. With a diverse crew of allies and strategic decision-making, players will navigate through epic space battles, explore uncharted territories, and forge alliances to ultimately overthrow the empire and usher in a new era of peace and prosperity.
 
 **Output :**
-```{
+``{
 
   "title": "Galactic Conquest",
   
@@ -78,4 +78,10 @@ Prompt: In a distant future, where the universe is ruled by a vast galactic empi
   ], 
   
   "plot_description": "In a distant future, the universe is ruled by a vast galactic empire. Lead a rebellion against the oppressive rule and navigate through epic space battles, explore uncharted territories, and forge alliances to overthrow the empire and usher in a new era of peace and prosperity."
-}
+}``
+
+# Assets generation
+## 3D generation
+Useful repos and APIs : 
+- Stable-Fast-3D : https://github.com/Stability-AI/stable-fast-3d
+- Meshy.ai API
