@@ -78,4 +78,4 @@ Prompt: In a distant future, where the universe is ruled by a vast galactic empi
   ], 
   
   "plot_description": "In a distant future, the universe is ruled by a vast galactic empire. Lead a rebellion against the oppressive rule and navigate through epic space battles, explore uncharted territories, and forge alliances to overthrow the empire and usher in a new era of peace and prosperity."
-}```
+}
