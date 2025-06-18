@@ -89,4 +89,7 @@ Useful repos and APIs :
 - Stable-Fast-3D : https://github.com/Stability-AI/stable-fast-3d
 - Meshy.ai API
 - Microsoft TRELLIS : https://github.com/Microsoft/TRELLIS
-- 
+
+## 2D generation
+- Stable difusion
+- Other image generation model
