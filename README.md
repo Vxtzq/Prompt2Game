@@ -1,7 +1,7 @@
 # The Prompt2Game project
 This repository aims to generate a fully playable and complex game from a single prompt, using multiple models such as LLMs and difusion models
 
-# Aims
+# Goal of the project
 The aim of the project is to generate a fully playable game by converting a single prompt into a full game representation for few-shots game creation
 Every steps will be modifiable by user making a very flexible game creation engine
 
