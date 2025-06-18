@@ -16,10 +16,11 @@ Every steps will be modifiable by user making a very flexible game creation engi
 # Prompt ▶ Game Design Document
 From the game idea, generate the .json game design document.
 Example :
-Input : Title: Galactic Conquest
+**Input :** 
+Title: Galactic Conquest
 Prompt: In a distant future, where the universe is ruled by a vast galactic empire, players must lead a rebellion against the oppressive rule to restore freedom and justice. With a diverse crew of allies and strategic decision-making, players will navigate through epic space battles, explore uncharted territories, and forge alliances to ultimately overthrow the empire and usher in a new era of peace and prosperity.
 
-Output : 
+**Output :**
 {
   "title": "Galactic Conquest",
   
