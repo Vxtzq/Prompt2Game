@@ -6,8 +6,8 @@ The aim of the project is to generate a fully playable game by converting a sing
 Every steps will be modifiable by user making a very flexible game creation engine
 
 # Project status
-- Prompt to Game Design Document
-- Game Design Document to character list and game plot
+- Prompt --> Game Design Document 
+- Game Design Document --> character list + game plot
 - Game Character list / graphics --> Assets (3d or 2d generation)
 - Game plot & Character list --> Game states (Menu - Cutscenes - Game - End screen)
 - Game plot + Character list + states + details --> Game file structure (assets/scripts)
