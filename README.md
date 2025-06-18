@@ -22,32 +22,60 @@ Prompt: In a distant future, where the universe is ruled by a vast galactic empi
 
 **Output :**
 `{
-  "title": "Galactic Conquest", 
+
+  "title": "Galactic Conquest",
+  
   "genre": ["Action", "Strategy", "Adventure"], 
+  
   "mechanics": ["Real-time strategy", "Exploration", "Diplomacy", "Combat"], 
+  
   "aesthetics": "Sci-fi", 
+  
   "platforms": ["PC", "Playstation", "Xbox", "Switch"], 
+  
   "perspective": "Third-person", 
+  
   "controls": {` 
+  
     "keys": { 
+    
       "W": "Move Forward", 
+      
       "A": "Turn Left", 
+      
       "S": "Move Backward", 
+      
       "D": "Turn Right", 
+      
       "Q": "Rotate Camera Left", 
+      
       "E": "Rotate Camera Right", 
+
       "Space": "Jump", 
+      
       "Mouse Click Left": "Shoot", 
+      
       "Mouse Click Right": "Select/Use Item", 
+      
       "Tab": "Switch Characters", 
+      
       "P": "Pause" 
+      
     } 
+    
   }, 
+  
   "goals": [ 
+  
     "Defeat the galactic empire", 
+    
     "Explore uncharted territories", 
+    
     "Forge alliances", 
+    
     "Restore freedom and justice" 
+    
   ], 
+  
   "plot_description": "In a distant future, the universe is ruled by a vast galactic empire. Lead a rebellion against the oppressive rule and navigate through epic space battles, explore uncharted territories, and forge alliances to overthrow the empire and usher in a new era of peace and prosperity."
 }`
