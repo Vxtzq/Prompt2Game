@@ -9,7 +9,7 @@ Every steps will be modifiable by user making a very flexible game creation engi
 
 # Project status
 - Prompt ▶ Game Design Document - ✅ In progress
-- Game Design Document ▶ character list + game plot - ❌ Not done yet
+- Game Design Document ▶ character list + game plot - ✅ In progress
 - Game Character list / graphics ▶ Assets (3d or 2d generation) - ✅ In progress
 - Game plot & Character list ▶ Game states (Menu - Cutscenes - Game - End screen) - ❌ Not done yet
 - Game plot + Character list + states + details ▶ Game file structure (assets/scripts) - ❌ Not done yet
@@ -91,7 +91,8 @@ Useful repos and APIs :
 - Stable-Fast-3D : https://github.com/Stability-AI/stable-fast-3d
 - Meshy.ai API
 - Microsoft TRELLIS : https://github.com/Microsoft/TRELLIS
-
+- Hunyuan3D-2
+  
 ## 2D generation
 - Stable difusion
 - Other image generation model
