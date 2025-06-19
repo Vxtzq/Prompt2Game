@@ -1,4 +1,5 @@
 # The Prompt2Game project
+**Leveraging instruct LLMs to generate full games from prompt**
 This repository aims to generate a fully playable and complex game from a single prompt, using multiple models such as LLMs and difusion models
 
 # Goal of the project
