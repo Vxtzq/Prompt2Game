@@ -98,6 +98,10 @@ Useful repos and APIs :
 - Microsoft TRELLIS : https://github.com/Microsoft/TRELLIS
 - Hunyuan3D-2
   
+## 3D Rigging
+- UniRig
+- https://anything.world/
+  
 ## 2D generation
 - Stable difusion
 - Other image generation model
